@@ -1,0 +1,18 @@
+*{
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.btn{
+
+    background-color: white;
+}
+
+.btn:hover{
+    background-color: aquamarine;
+}
+
+#display{
+    font-size: 8em;
+    color: brown;
+}
